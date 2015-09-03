@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmo de Jose", "Algoritmo de Jose\Algoritmo de Jose.vcxproj", "{CBA7C88A-0EB4-4C7A-BBF2-1AE7AFE3DB4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA7C88A-0EB4-4C7A-BBF2-1AE7AFE3DB4D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBA7C88A-0EB4-4C7A-BBF2-1AE7AFE3DB4D}.Debug|Win32.Build.0 = Debug|Win32
+		{CBA7C88A-0EB4-4C7A-BBF2-1AE7AFE3DB4D}.Release|Win32.ActiveCfg = Release|Win32
+		{CBA7C88A-0EB4-4C7A-BBF2-1AE7AFE3DB4D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
